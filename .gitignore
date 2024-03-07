@@ -1,0 +1,9 @@
+# Arquivos de compilação
+*.o
+*.out
+
+# Diretório de dependências
+/node_modules
+
+# Arquivos específicos
+debug.log
